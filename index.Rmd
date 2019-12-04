@@ -32,16 +32,30 @@ mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
 ```
 class: middle, title-slide
 
-# My talk template
+# Temperature effects on biomass distribution and trophic cascade in food chains
 
-## My talk subtitle
+## blabla
 
-### Willian Vieira, .small[PhD candidate <br> + Collaborators]
+### Azenor Bideault, .tiny[PhD candidate <br> + add co-authors]
 
-<br><br><br><br><br>
-<i class="fa fa-github fa-2x" style="color:#335049"></i> [WillVieira/talkTemplate](https://github.com/willvieira/talkTemplate)
+<br><br>
+<i class="fa fa-github fa-2x" style="color:#335049"></i> [Azenor/Talk_CSBQ2019](https://github.com/Azenor/Talk_CSBQ2019)
 
-<i class="fa fa-twitter fa-2x" style="color:#335049"></i> [@WillVieira90](https://twitter.com/willvieira90)
+<i class="fa fa-twitter fa-2x" style="color:#335049"></i> [@Azenor_Bideault](https://twitter.com/Azenor_Bideault)
+
+---
+class: inverse, center, middle
+
+# Temperature effects
+
+## from individuals to communities
+
+---
+
+## Trophic interaction
+
+<br><br><br>
+![](images/temp_trophic_inter.png)
 
 ---
 class: inverse
