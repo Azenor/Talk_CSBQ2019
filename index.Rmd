@@ -32,9 +32,9 @@ mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
 ```
 class: middle, title-slide
 
-# Temperature effects on biomass distribution and trophic cascade in food chains
+# Temperature effects on biomass distribution and trophic control in food chains
 
-## blabla
+## A cross-ecosystem comparison
 
 ### Azenor Bideault, .tiny[PhD candidate <br> + add co-authors]
 
@@ -46,16 +46,229 @@ class: middle, title-slide
 ---
 class: inverse, center, middle
 
-# Temperature effects
+# Species interaction under warming
 
-## from individuals to communities
+## Structure and dynamic of communities
 
 ---
 
 ## Trophic interaction
 
 <br><br><br>
-![](images/temp_trophic_inter.png)
+![](images/trophic_interactions.png)
+
+<br><br>
+.center[Food chain structural properties and dynamical features]
+
+---
+
+## Food chain structural properties
+### Biomass distribution
+
+![](images/biomass_pyramids.png)
+
+<!--
+Expliquer biomass distribution (parallèle avec pyramide de Keops, richesse, nombre de femmes en académique)
+Donner des exemples d'écosystèmes bottom-heavy and top-heavy
+de hoekman2010 :
+Bottom-up
+regulation occurs through resource availability at the
+base of the food web, such that increased productivity at
+lower trophic levels results in increased productivity at
+higher trophic levels (Elton 1927). Top-down regulation
+occurs through predator populations limiting prey
+populations, such that the addition of more predators
+reduces the biomass of their prey (Oksanen et al. 1981).
+Exemple de trophic cascade + importance, conséquences sur l'écosystèmes :
+Estes et al + Frank et al 2007 -->
+
+---
+
+## Food chain structural properties
+### Biomass distribution
+
+![](images/biomass_pyramids2.png)
+
+
+---
+## Food chain dynamical features
+### Trophic control
+
+![](images/trophic_control.png)
+
+---
+## Food chain dynamical features
+### Trophic control
+
+![](images/trophic_control2.png)
+---
+
+## Food chain structure and dynamic
+### Trophic cascade
+
+<br><br>
+![](images/otter.png)
+
+.center[Sea otters indirectly enhance kelps abundance by consuming herbivorous sea urchins]
+
+.small[.pull-right2[*Estes et al 2011*]]
+
+---
+class: inverse, center, middle
+
+# What about temperature?
+## Effects at different organization levels
+---
+
+## Temperature effects at the community level
+### Biomass distribution
+
+![](images/biomass_distribution_temp.png)
+
+---
+
+## Temperature effects at the community level
+### Trophic control
+
+![](images/trophic_control_temp.png)
+---
+
+## Temperature effects at the individual levels
+### Biological rates
+
+![:scale 90%](images/biological_rates_temp.png)
+.center[There is variability in thermal sensitivities across biological rates and species]
+
+---
+
+## Temperature effects
+### From the individuals to the community
+
+![:scale 90%](images/schema_temp_general.png)
+
+---
+## No consensus
+### Both empirical and theoretical studies reach very divergent outcomes
+
+<br>
+.pull-left[![:scale 70%](images/assumptions.png)]
+
+.pull-right[.center[![:scale 40%](images/thinking.png)
+
+**Hard to draw a general picture on the effects of temperature on consumer-resource interactions**]]
+
+---
+## No consensus
+### between and among experiments and theory
+
+.pull-left[Experimental studies
+- One particular ecological system
+- Experimental design
+- One process at a time
+
+<br><br>
+![](images/rick_morty.gif)]
+
+.pull-right[Theoretical studies
+- Different model assumptions
+- One process at a time
+
+
+<br><br>
+![:scale 80%](images/rick_morty_computer.gif)]
+
+---
+class: inverse, center, middle
+
+# What are the effects of temperature on biomass structure and trophic control in consumer-resource interactions?
+
+---
+## Theoretical framework
+### Synthetic parameters describing food chain properties
+
+<br>
+![](images/theoretical_framework.png)
+
+<br><br>
+.small[.pull-right2[*Barbier & Loreau 2019*]]
+
+---
+## Theoretical framework
+### Synthetic parameters describing food chain properties
+
+<br>
+![](images/theoretical_framework1.png)
+
+<br><br>
+.small[.pull-right2[*Barbier & Loreau 2019*]]
+
+---
+## Theoretical framework
+### Temperature dependence
+
+<br>
+![](images/theoretical_framework2.png)
+
+
+---
+## Theoretical framework
+### Temperature dependence
+
+<br>
+![](images/theoretical_framework3.png)
+
+
+---
+## Theoretical framework
+### Temperature dependence of the biological rates
+
+.pull-left[.center[![](images/BAfunction.png)]]
+
+.pull-right[
+<br><br>
+
+$\huge b_i = b_0e^{-E/kT}$
+
+<br><br><br>
+
+* b<sub>0</sub>, k constants
+* T temperature
+* **E activation energy**
+]
+
+<br><br><br>
+.center[The activation energy defines the rate's thermal sensitivity]
+
+---
+## Theoretical framework
+### Temperature dependence of the synthetic parameters
+
+.pull-left[
+<br><br>
+Synthetic parameters :
+<br><br>
+$\Large κ = \dfrac{ϵD_1}{D_2}$
+<br><br><br><br><br>
+$\Large λ = \dfrac{ϵA_{21}}{D_1D_2}$
+]
+
+.pull-right[
+<br><br>
+Their activation energies :
+<br><br>
+$\large E_κ = E_ϵ + 2E_{A-D_2} + E_{ΔD}$
+<br><br>
+$\large E_\lambda = E_ϵ - E_{ΔD}$
+
+.center[![](images/BAfunction_mismatch.png)]]
+
+
+---
+## Database of activation energies
+### for different taxonomic groups/habitats
+
+![](images/data.png)
+.small[.pull-right[*Dell et al 2011, Burnside et al 2014, Fussman et al 2014*]]
 
 ---
 class: inverse
