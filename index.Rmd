@@ -358,7 +358,7 @@ class: inverse, center, middle
 - Predictions
 - Variation between taxonomic groups
 
-<br><br>
+<br><br><br><br>
 ![](images/rick_morty.gif)]
 
 .pull-right[
