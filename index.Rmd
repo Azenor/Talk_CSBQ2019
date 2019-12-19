@@ -32,11 +32,11 @@ mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
 ```
 class: middle, title-slide
 
-# Temperature effects on biomass distribution and trophic control in food chains
+# Temperature effects on biomass distribution and trophic control in consumer-resource systems
 
 ## A cross-ecosystem comparison
 
-### Azenor Bideault, .tiny[PhD candidate <br> + add co-authors]
+### Azenor Bideault, .tiny[PhD candidate <br> Nuria Galiana, Matthieu Barbier, Yuval Zelnik, Michel Loreau, Dominique Gravel, Arnaud Sentis]
 
 <br><br>
 <i class="fa fa-github fa-2x" style="color:#335049"></i> [Azenor/Talk_CSBQ2019](https://github.com/Azenor/Talk_CSBQ2019)
@@ -44,21 +44,14 @@ class: middle, title-slide
 <i class="fa fa-twitter fa-2x" style="color:#335049"></i> [@Azenor_Bideault](https://twitter.com/Azenor_Bideault)
 
 ---
-class: inverse, center, middle
 
-# Species interaction under warming
-
-## Structure and dynamic of communities
-
----
-
-## Trophic interaction
+## Trophic interactions under warming
 
 <br><br><br>
 ![](images/trophic_interactions.png)
 
 <br><br>
-.center[Food chain structural properties and dynamical features]
+.center[**Structure and dynamics of communities**]
 
 ---
 
@@ -147,40 +140,25 @@ class: inverse, center, middle
 ![:scale 90%](images/schema_temp_general.png)
 
 ---
-## No consensus
-### Both empirical and theoretical studies reach very divergent outcomes
+## Lack of consensus
+### No mechanistic understanding
 
 <br>
-.pull-left[![:scale 70%](images/assumptions.png)]
+.pull-left[![:scale 80%](images/assumptions.png)]
 
-.pull-right[.center[![:scale 40%](images/thinking.png)
-
-**Hard to draw a general picture on the effects of temperature on consumer-resource interactions**]]
-
----
-## No consensus
-### between and among experiments and theory
-
-.pull-left[Experimental studies
+.pull-right[
 - One particular ecological system
-- Experimental design
 - One process at a time
-
-<br><br>
-![](images/rick_morty.gif)]
-
-.pull-right[Theoretical studies
+- Different experimental design
 - Different model assumptions
-- One process at a time
-
 
 <br><br>
-![:scale 80%](images/rick_morty_computer.gif)]
-
+![:scale 60%](images/thinking.png)]
 ---
 class: inverse, center, middle
 
 # What are the effects of temperature on biomass structure and trophic control in consumer-resource interactions?
+## Toward a mechanistic understanding
 
 ---
 ## Theoretical framework
@@ -220,7 +198,7 @@ class: inverse, center, middle
 
 ---
 ## Theoretical framework
-### Temperature dependence of the biological rates
+### Temperature dependence of biological rates
 
 .pull-left[.center[![](images/BAfunction.png)]]
 
@@ -262,31 +240,170 @@ $\large E_\lambda = E_ϵ - E_{ΔD}$
 
 .center[![](images/BAfunction_mismatch.png)]]
 
-
 ---
 ## Database of activation energies
-### for different taxonomic groups/habitats
+### for different taxonomic groups and habitats
 
-![](images/data.png)
-.small[.pull-right[*Dell et al 2011, Burnside et al 2014, Fussman et al 2014*]]
+![:scale 90%](images/data.png)
 
+.pull-left[
+* Various species (ectotherm)
+* Taxonomic groups
+* Habitat
+* Diet
+]
+<br><br><br><br>
+.small[.pull-right2[*Dell et al 2011, Burnside et al 2014, Fussman et al 2014*]]
+
+---
+## Effects of temperature on biomass structure and trophic control in consumer-resource interactions
+
+<br><br>
+* Temperature dependence of λ and κ
+  - Aquatic vs terrestrial organisms
+  - Across taxonomic groups
+* Shift in λ and κ for herbivores-primary producers at the global scale
+
+---
+class: inverse, center, middle
+
+# Results
+
+---
+## Thermal dependence of λ and κ
+
+<br><br>
+.center[![:scale 60%](images/figure1.png)]
+
+---
+## Thermal dependence of λ and κ
+
+<br><br>
+.center[![:scale 60%](images/figure2.png)]
+
+---
+## Thermal dependence of λ and κ
+### Across taxonomic groups
+
+<br><br>
+.center[![](images/figure3.png)]
+
+---
+## Thermal dependence of λ and κ
+### Across taxonomic groups
+
+<br><br>
+.center[![](images/figure4.png)]
+
+.pull-right1[**Mismatches between biological rates**]
+
+---
+## Thermal dependence of λ and κ
+### Across taxonomic groups
+
+<br><br>
+.center[![](images/figure4.png)]
+
+.pull-right[
+$\large E_\lambda = E_ϵ - E_{ΔD}$]
+
+---
+## Herbivory at the global scale
+
+<br>
+.center[![:scale 70%](images/figure_herbivory.png)]
+
+.small[.pull-right2[*Bar-on et al 2018*]]
+
+---
+## Herbivory at the global scale
+
+<br>
+.center[![:scale 70%](images/figure_herbivory.png)]
+
+.small[.pull-right2[*Bar-on et al 2018*]]
+
+---
+class: inverse, center, middle
+
+# To conclude
+
+---
+## To conclude
+
+.center[![:scale 90%](images/schema_recap1.png)]
+
+---
+## To conclude
+
+.center[![:scale 90%](images/schema_recap2.png)]
+<br>
+.center[**3 fundamental biological rates and their mismatches**]
+
+---
+## To conclude
+
+.center[![:scale 90%](images/schema_recap3.png)]
+.center[**General trend : more top-down control in aquatic systems and top-heavier biomass distribution in terrestrial and aquatic ones**]
+---
+## To conclude
+
+.center[![:scale 90%](images/schema_recap4.png)]
+
+.center[**Herbivory : more top-down control and less bottom-heavy biomass distribution**]
+---
+## To conclude
+
+.pull-left[
+- Mechanistic understanding
+- Differences between aquatic and terrestrial communities
+- Predictions
+- Variation between taxonomic groups
+
+<br>
+![](images/rick_morty.gif)]
+
+---
+## To conclude
+
+.pull-left[
+- Mechanistic understanding
+- Differences between aquatic and terrestrial communities
+- Predictions
+- Variation between taxonomic groups
+
+<br><br>
+![](images/rick_morty.gif)]
+
+.pull-right[
+But...
+- Lack of data
+  - Self-regulation
+  - Biomass conversion efficiency
+  - Full thermal response
+- Consumer-resource interactions
+
+<br><br><br>
+.center[**Explore and better understand community functioning under warming**]
+]
 ---
 class: inverse
 
 .pull-left1[
 <br>
 
-# Key message here
+# Temperature induces changes in community structure and dynamic
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 **Special thanks to**
 
-Nice people
-]
+- You
+- My co-authors (for the great working group!)
+- My lab mates in Sherbrooke and Moulis
+- Willian Vieira (for the nice template)]
 
 .pull-right1[
-<br>
-<br>
+<br><br>
 ![:scale 90%](images/logo.png)
 ]
