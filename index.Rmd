@@ -60,21 +60,6 @@ class: middle, title-slide
 
 ![](images/biomass_pyramids.png)
 
-<!--
-Expliquer biomass distribution (parallèle avec pyramide de Keops, richesse, nombre de femmes en académique)
-Donner des exemples d'écosystèmes bottom-heavy and top-heavy
-de hoekman2010 :
-Bottom-up
-regulation occurs through resource availability at the
-base of the food web, such that increased productivity at
-lower trophic levels results in increased productivity at
-higher trophic levels (Elton 1927). Top-down regulation
-occurs through predator populations limiting prey
-populations, such that the addition of more predators
-reduces the biomass of their prey (Oksanen et al. 1981).
-Exemple de trophic cascade + importance, conséquences sur l'écosystèmes :
-Estes et al + Frank et al 2007 -->
-
 ---
 
 ## Food chain structural properties
@@ -344,12 +329,13 @@ class: inverse, center, middle
 ## To conclude
 
 .center[![:scale 90%](images/schema_recap3.png)]
+<br>
 .center[**General trend : more top-down control in aquatic systems and top-heavier biomass distribution in terrestrial and aquatic ones**]
 ---
 ## To conclude
 
 .center[![:scale 90%](images/schema_recap4.png)]
-
+<br>
 .center[**Herbivory : more top-down control and less bottom-heavy biomass distribution**]
 ---
 ## To conclude
