@@ -102,7 +102,6 @@ class: inverse, center, middle
 ### Biological rates
 
 ![:scale 90%](images/biological_rates_temp.png)
-.center[There is variability in thermal sensitivities across biological rates and species]
 
 ---
 
