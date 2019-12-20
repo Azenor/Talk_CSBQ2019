@@ -98,20 +98,7 @@ class: inverse, center, middle
 ## Effects at different organization levels
 ---
 
-## Temperature effects at the community level
-### Biomass distribution
-
-![](images/biomass_distribution_temp.png)
-
----
-
-## Temperature effects at the community level
-### Trophic control
-
-![](images/trophic_control_temp.png)
----
-
-## Temperature effects at the individual levels
+## Temperature effects at the individual level
 ### Biological rates
 
 ![:scale 90%](images/biological_rates_temp.png)
