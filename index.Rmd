@@ -219,9 +219,9 @@ $\Large λ = \dfrac{ϵA_{21}}{D_1D_2}$
 <br><br>
 Their activation energies :
 <br><br>
-$\large E_κ = E_ϵ + 2E_{A-D_2} + E_{ΔD}$
+$\large E_κ = E_ϵ - E_{ΔD}$
 <br><br>
-$\large E_\lambda = E_ϵ - E_{ΔD}$
+$\large E_\lambda =  E_ϵ + 2E_{A-D_2} + E_{ΔD}$
 
 .center[![](images/BAfunction_mismatch.png)]]
 
@@ -281,16 +281,6 @@ class: inverse, center, middle
 .center[![](images/figure4.png)]
 
 .pull-right1[**Mismatches between biological rates**]
-
----
-## Thermal dependence of λ and κ
-### Across taxonomic groups
-
-<br><br>
-.center[![](images/figure4.png)]
-
-.pull-right[
-$\large E_\lambda = E_ϵ - E_{ΔD}$]
 
 ---
 ## Herbivory at the global scale
