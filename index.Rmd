@@ -300,13 +300,6 @@ $\large E_\lambda = E_ϵ - E_{ΔD}$]
 
 .small[.pull-right2[*Bar-on et al 2018*]]
 
----
-## Herbivory at the global scale
-
-<br>
-.center[![:scale 70%](images/figure_herbivory.png)]
-
-.small[.pull-right2[*Bar-on et al 2018*]]
 
 ---
 class: inverse, center, middle
